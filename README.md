@@ -1,13 +1,29 @@
-# wessy_autovote
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://www.wrrp.de/wp-content/uploads/2022/10/wildrideheaderlogo.png" alt="Logo" width="80" height="80">
+  </a>
 
-Game: RedM
-Framework: VORP 
+  <h3 align="center">wessy_autovote</h3>
 
-A simple Script for using a /vote chat command for a item reward besed on Top-Games voting
+  <p align="center">
+    A simple Script for using a /vote chat command for a item reward besed on Top-Games voting
+  </p>
+</div>
 
-Configure File init.js
-- Line 32: Change URL_NAME_SERVER to your server url name from Top-Games
-- Line 42: Change YOUR_SERVER_TOKEN to your own server token from Top-Games
+<a href="https://redm.net/">![Static Badge](https://img.shields.io/badge/Game-RedM-red)</a>
+<a href="https://github.com/VORPCORE">![Static Badge](https://img.shields.io/badge/Framework-VORP-blue)</a>
+<a href="https://discord.gg/9e8G6Ndkvs">![Static Badge](https://img.shields.io/badge/Support-DISORD-orange)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Requirement-vorp_core%2Cvorp_character%2Cvorp_inventory-white)</a>
 
-Configure File serevr.lua
-- Line 23: Change loyaltytoken to your own reward-item
+## Configuration
+File init.js
+```
+Line 32: Change URL_NAME_SERVER to your server url name from Top-Games
+Line 42: Change YOUR_SERVER_TOKEN to your own server token from Top-Games
+```
+File server.lua
+```
+Line 23: Change loyaltytoken to your own reward-item
+```
