@@ -28,4 +28,4 @@ File server.lua
 Line 23: Change loyaltytoken to your own reward-item
 ```
 
-> "All scripts were tested for performance and stability on the German-speaking roleplay server Wild Ride with up to 240 players."
+> All scripts were tested for performance and stability on the German-speaking roleplay server Wild Ride with up to 240 players.
