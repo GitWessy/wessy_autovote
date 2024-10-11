@@ -8,7 +8,7 @@
   <h3 align="center">wessy_autovote</h3>
 
   <p align="center">
-    A simple Script for using a /vote chat command for a item reward besed on Top-Games voting
+    A simple Script for using a /vote chat command for a item reward based on Top-Games voting
   </p>
 </div>
 
