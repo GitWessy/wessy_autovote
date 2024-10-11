@@ -29,7 +29,7 @@ $(document).ready(function(){
         let Hud = document.getElementById('content');
         let Hud2 = document.getElementById('iframe');
         Hud.style.opacity = "1.0";
-        Hud2.src = 'https://de.top-games.net/rdr/vote/wildride-roleplay-keine-whitelist?pseudo='+steamid;
+        Hud2.src = 'https://de.top-games.net/rdr/vote/URL_NAME_SERVER?pseudo='+steamid;
       }
       if (event.data.action == 'close') {
 
@@ -39,7 +39,7 @@ $(document).ready(function(){
         Hud2.src = '';
 
         //Option with catch
-        fetch( "https://api.top-games.net/v1/votes/claim-username?server_token=4QWXI8XOGC2D&playername="+steamid)
+        fetch( "https://api.top-games.net/v1/votes/claim-username?server_token=YOUR_SERVER_TOKEN&playername="+steamid)
         .then(async r=> senddata(await r.json()))
         .catch(e=>console.error('Boo...' + e));
         
