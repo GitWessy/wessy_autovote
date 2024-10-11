@@ -5,7 +5,7 @@
     <img src="https://www.wrrp.de/wp-content/uploads/2022/10/wildrideheaderlogo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">wessy_autovote</h3>
+  <h3 align="center">wessy_<strong>AutoVote</strong></h3>
 
   <p align="center">
     A simple Script for using a /vote chat command for a item reward based on Top-Games voting
