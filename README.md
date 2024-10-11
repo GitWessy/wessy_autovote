@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://www.wrrp.de/wp-content/uploads/2022/10/wildrideheaderlogo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.wrrp.de/wildride_scripts_long.png" alt="Logo" width="350">
   </a>
 
   <h3 align="center">wessy_<strong>AutoVote</strong></h3>
